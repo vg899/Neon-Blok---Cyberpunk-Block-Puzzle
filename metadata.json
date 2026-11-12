@@ -1,0 +1,6 @@
+{
+  "name": "Neon Blok - Cyberpunk Block Puzzle",
+  "description": "Minimalist neon block puzzle game with progressive difficulty levels, daily challenges, local multiplayer duels, global leaderboards, high score social sharing, and offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
